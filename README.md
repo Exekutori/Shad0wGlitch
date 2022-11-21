@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Shad0wGlitch
+- 👀 I’m interested in Python, C++, C# | Working on a TG Userbot
+- 🌱 I’m currently learning GO Lang
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: On Telegram (@Shad0wIsBack)
